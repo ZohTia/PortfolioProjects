@@ -74,7 +74,7 @@ END
 --Delete Unused Columns
 
 ALTER Table Levels_Fyi_Salary_Data
-DROP COLUMN abbrv, level, tag, location, dmaid,rowNumber,Some_College,Race_Asian,Race_White,Race_Two_Or_More,Race_Black,Race_Hispanic,basesalary,stockgrantvalue,bonus,gender,otherdetails
+DROP COLUMN abbrv, level, tag, location, dmaid, rowNumber, Some_College, Race_Asian, Race_White, Race_Two_Or_More, Race_Black, Race_Hispanic, otherdetails
 
 
 
